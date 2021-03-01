@@ -7,7 +7,7 @@ import static org.mockito.Mockito.*;
 
 public class TrainControllerTest {
 
-	TrainControllerImpl controller
+	TrainControllerImpl controller;
 	
 	
     @Before
