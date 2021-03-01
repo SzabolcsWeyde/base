@@ -1,4 +1,4 @@
-# Train Speed Controller
+# Train Gyorsaság Controller
 
 __This is a sample application for the verification laboratory.__
 
