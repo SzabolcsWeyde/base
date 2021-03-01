@@ -52,7 +52,7 @@ public class TrainSystemTest {
 	@Test
 	public void owntest() {
 		
-		Assert.assertEquals(10, controller.getReferenceSpeed());
+		Assert.assertEquals(0, controller.getReferenceSpeed());
 	}
 
 	
