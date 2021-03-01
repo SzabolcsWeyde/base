@@ -17,6 +17,6 @@ public class TrainControllerTest {
 
     @Test
     public void ThisIsAnExampleTestStub() {
-    	Assert.assertEquals(0, controller.getReferenceSpeed());
+    	Assert.assertEquals(10, controller.getReferenceSpeed());
     }
 }
